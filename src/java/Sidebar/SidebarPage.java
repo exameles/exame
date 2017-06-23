@@ -7,7 +7,10 @@ package Sidebar;
 
 /**
  *
- * @author Nobrega
+ * 
+ * 
+ *
+ * @author samuel
  */
 import java.io.Serializable;
 
